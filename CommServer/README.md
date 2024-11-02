@@ -14,3 +14,6 @@
 
 ## Padrão 4: Implementar um MVC
     5. neste caso seria readequar o projeto inteiro para o modelo onde os dados se desacoplam das funcionalidades do servidor e do console do programa.
+
+## Link para o video:
+https://youtu.be/6zFTqC8R3GA
